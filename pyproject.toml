@@ -91,6 +91,7 @@ setproctitle = "1.3.2"
 
 CAPE-parsers = ">=0.1.36"
 maco = "1.1.8"
+openai = "1.30.5"
 
 [tool.poetry.extras]
 maco = ["maco"]

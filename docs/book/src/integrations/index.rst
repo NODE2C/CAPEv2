@@ -13,3 +13,4 @@ to fit the needs of all users.
     curtain
     librenms
     suricata
+    openai
