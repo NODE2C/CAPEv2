@@ -24,6 +24,7 @@ CAPE complements Cuckoo's traditional sandbox output with several key additions:
     * Dynamic anti-sandbox countermeasures
     * Instruction traces
 * Interactive desktop
+* Optional AI-generated summary reports via OpenAI
 
 There is a free demonstration instance online that anyone can use:
 
