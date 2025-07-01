@@ -220,3 +220,9 @@ enabled = no
 
 [browserext]
 enabled = no
+
+[ollama]
+enabled = no
+host = http://192.168.1.183:11434
+model = deepseek-r1:latest
+prompt = Provide a short explanation of the CAPE analysis, predict the malware behaviour and map to MITRE ATT&CK.
